@@ -6,9 +6,12 @@ body {
     width: 100%;
 }
 
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
 :root {
-    *::before,
-    *::after {
-        box-sizing: border-box;
-    }
+    height: 100%;
+    width: 100%;
 }
