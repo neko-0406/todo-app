@@ -16,3 +16,16 @@ body {
     height: 100%;
     width: 100%;
 }
+
+:root {
+    --paradiso-50: #e3e8e8;
+    --paradiso-100: #c9dadb;
+    --paradiso-200: #aacfd1;
+    --paradiso-300: #88c8cc;
+    --paradiso-400: #62c5cb;
+    --paradiso-500: #38c5cd;
+    --paradiso-600: #21b3bc;
+    --paradiso-700: #129ba3;
+    --paradiso-800: #077f87;
+    --paradiso-900: #006066;
+}
