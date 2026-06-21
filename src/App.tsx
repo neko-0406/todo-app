@@ -1,7 +1,8 @@
 import "./App.css";
+import SideMenubar from "./components/SideMenubar";
 
 function App() {
-  return <div id="root"></div>;
+  return <SideMenubar></SideMenubar>;
 }
 
 export default App;

@@ -1,0 +1,23 @@
+.SidemenubarContainer {
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+SidemenubarItemArea {
+    height: 100%;
+    width: 80px;
+}
+
+.SidemenubarItemButton {
+}
+
+.SidemenubarChildren {
+    flex: 1;
+}
+
+.SidemenubarItemIcon {
+}
+
+.SidemenubarItemLabel {
+}
