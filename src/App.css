@@ -6,6 +6,7 @@ body {
     width: 100%;
 }
 
+*,
 *::after,
 *::before {
     box-sizing: border-box;
